@@ -18,7 +18,7 @@ $ docker pull n0madic/alpine-gcc:9.2.0
 
 ## Build image and usage
 
-- GCC 9.x: `GCC_VERSION='9.3.0'
+- GCC 9.x: `GCC_VERSION='9.3.0'`
 - GCC 10.x: `GCC_VERSION='10.2.0'``
 
 ```bash
